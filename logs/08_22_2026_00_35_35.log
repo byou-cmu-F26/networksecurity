@@ -1,7 +1,0 @@
-[ 2026-08-22 00:35:39,273 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2026-08-22 00:35:39,288 ] 107 dagshub - INFO - Accessing as byou-cmu-F26
-[ 2026-08-22 00:35:41,953 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/byou-cmu-F26/networksecurity "HTTP/1.1 200 OK"
-[ 2026-08-22 00:35:44,488 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2026-08-22 00:35:44,495 ] 107 dagshub - INFO - Initialized MLflow to track repo "byou-cmu-F26/networksecurity"
-[ 2026-08-22 00:35:44,495 ] 107 dagshub - INFO - Repository byou-cmu-F26/networksecurity initialized!
-[ 2026-08-22 00:35:44,496 ] 20 root - INFO - Initiate the data ingestion

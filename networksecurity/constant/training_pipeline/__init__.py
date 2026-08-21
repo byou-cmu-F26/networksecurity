@@ -149,4 +149,4 @@ MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.05
 
 # 云端保存训练结果的 bucket 名字。
 # 例子：后面如果把模型上传到 AWS S3/GCP/Azure，可能会用到这个名字。
-TRAINING_BUCKET_NAME = "netwworksecurity"
+TRAINING_BUCKET_NAME = "networksecurity-bihao"
